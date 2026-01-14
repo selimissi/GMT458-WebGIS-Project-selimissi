@@ -25,10 +25,12 @@ Unlike traditional web applications, this project integrates **Spatial Database*
 
 ### 1. Secure Login Screen
 *Users must authenticate via the secure gateway to access personalized features.*
+
 ![Login Screen](login.png)
 
 ### 2. Main Game Interface
 *The interactive map allows players to manage flight paths using real-time spatial queries.*
+
 ![Gameplay Map](gameplay.png)
 
 ---

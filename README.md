@@ -44,10 +44,15 @@ This project fulfills the advanced requirements set by the GMT 458 curriculum, b
 * **Process Management:** Utilized **PM2** for daemonizing the Node.js application, ensuring 99.9% uptime, load balancing, and automatic restarts.
 * **Network Security:** Configured AWS Security Groups to manage Inbound/Outbound traffic rules (Port 3000/80).
 
-### 2. 🗄️ NoSQL Database Implementation
+### 2. 🗄️ NoSQL Database Implementation (25%)
 * **Technology:** **MongoDB Atlas** (Cloud-managed Cluster).
 * **Why NoSQL?** Flight logs, user sessions, and geospatial data generate heterogeneous structures. MongoDB's document-based model offers superior flexibility compared to rigid relational tables (SQL).
 * **Spatial Optimization:** Utilized `2dsphere` indexes to execute high-performance spatial queries (e.g., `$near`, `$geoIntersects`).
+
+**Database Evidence:**
+*Real-time data storage of registered users and flight logs on MongoDB Atlas:*
+
+![Database Proof](database-proof.png)
 
 ### 3. 👥 Managing Different User Types (20%)
 * **Architecture:** The system implements a hierarchical Role-Based Access Control (RBAC).

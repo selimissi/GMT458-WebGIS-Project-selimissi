@@ -11,6 +11,8 @@
 
 ---
 
+**Link for presentation**
+
 ## 📖 Abstract & Project Overview
 **Ready for Departure** is a Full-Stack Web GIS application designed to simulate air traffic control operations. The system challenges players to manage flight paths using real-world coordinates (WGS84) on an interactive map.
 

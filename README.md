@@ -11,7 +11,7 @@
 
 ---
 
-**Link for presentation: [Proje Sunumunu İndir (PPTX)](Mustafa_Selim_Issı_Project_Presentation.pptx)**
+**Link for presentation: [Proje Sunumunu İndir (PPTX)](Mustafa_Selim_Issı_Project_Presentation.pptx) https://github.com/selimissi/GMT458-WebGIS-Project-selimissi/raw/refs/heads/main/Mustafa_Selim_Iss%C4%B1_Project_Presentation.pptx**
 
 ## 📖 Abstract & Project Overview
 **Ready for Departure** is a Full-Stack Web GIS application designed to simulate air traffic control operations. The system challenges players to manage flight paths using real-world coordinates (WGS84) on an interactive map.
